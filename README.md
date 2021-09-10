@@ -44,7 +44,7 @@ This is my blog 🌱: <http://word.czqlm.top>.
 
 #### Interesting stats
 
-![Q-meet's github stats](https://github-readme-stats.vercel.app/api?usernameq-meet&show_icons=true&hide_border=true)
+![Q-meet's github stats](https://github-readme-stats.vercel.app/api?username=q-meet&show_icons=true&hide_border=true)
 
 Thanks for stopping by! 😁
 
