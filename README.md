@@ -44,7 +44,7 @@ This is my blog 🌱: <http://word.czqlm.top>.
 
 #### Interesting stats
 
-![Q-meet's github stats](https://github-readme-stats.vercel.app/api?username=Liwen-Git&show_icons=true&hide_border=true)
+![Q-meet's github stats](https://github-readme-stats.vercel.app/api?usernameq-meet&show_icons=true&hide_border=true)
 
 Thanks for stopping by! 😁
 
@@ -53,7 +53,7 @@ Thanks for stopping by! 😁
 
 
 <!--
-**Liwen-Git/Liwen-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**q-meet/q-meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
