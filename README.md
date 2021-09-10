@@ -51,6 +51,9 @@ Thanks for stopping by! 😁
 ⭐️ From [Q-meet](https://github.com/q-meet)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
