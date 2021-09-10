@@ -50,7 +50,8 @@ Thanks for stopping by! 😁
 
 ⭐️ From [Q-meet](https://github.com/q-meet)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **q-meet/q-meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
