@@ -26,10 +26,10 @@ This is my blog 🌱: <http://word.czqlm.top>.
     - Go ❤
     - PHP ❤
 - **Go Framework**
-    - gin, beego, <a href="https://github.com/q-meet/MyFrameworkTest">MyFrameworkTest</a>, grpc ❤️
-    - go-zero, go-micro
+    - gin, beego, <a href="https://github.com/q-meet/MyFrameworkTest">MyFrameworkTest</a> ❤️
+    - go-micro, go-zero, grpc
 - **PHP Framework**
-    - ThinkPHP, Laravel ❤️
+    - ThinkPHP, Laravel 
 - **Frontend Development**
     - HTML, CSS, Javascript, JQuery
     - LayUi, ElementUI, Bootstrap
